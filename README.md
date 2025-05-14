@@ -1,7 +1,7 @@
 # credit-risk-classification
 ## Overview of the Analysis
 
-We built a supervised machine learning model to predict whether a loan would be healthy or at high risk of defaulting based on other parameters of the loan such as loan amount, interest rate, borrower income and the borrower’s dept to income ratio among other factors.  We used a classification algorithm that helps us decide how much each loan parameter contributes to the loan status, then based on those factors we can model whether a loan would be healthy or not.
+A supervised machine learning model was built to predict whether a loan would be healthy or at high risk of defaulting based on other parameters of the loan such as loan amount, interest rate, borrower income and the borrower’s dept to income ratio among other factors.  We used a classification algorithm that helps us decide how much each loan parameter contributes to the loan status, then based on those factors we can model whether a loan would be healthy or not.
 
 ## Results
 
